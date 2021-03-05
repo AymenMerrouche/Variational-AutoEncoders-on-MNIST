@@ -19,9 +19,9 @@ Reconstruction and Sampling example :
 
 ## Distangling Factors of Variation
 Sampling while varying dimensions in latent space :
-![Sampling while varying dimensions in latent space](https://github.com/AymenMerrouche/Variational-AutoEncoders-on-MNIST/figures/blob/master/interpolation_large.png.png)
+![Sampling while varying dimensions in latent space](./interpolation_large.png.png "Epoch = 30")
 
 ## Embeddings in latent space
 Embeddings in latent space for each class (encoder output on an exmaple of every class) :
 
-![encoder output on an exmaple of every class](https://github.com/AymenMerrouche/Variational-AutoEncoders-on-MNIST/blob/master/figures/latent_space.png)
+![encoder output on an exmaple of every class](./figures/latent_space.png "Epoch = 30")
