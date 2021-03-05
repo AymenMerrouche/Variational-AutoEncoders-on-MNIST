@@ -19,7 +19,7 @@ Reconstruction and Sampling example :
 
 ## Distangling Factors of Variation
 Sampling while varying dimensions in latent space :
-![Sampling while varying dimensions in latent space](./interpolation_large.png.png "Epoch = 30")
+![Sampling while varying dimensions in latent space](./figures/interpolation_large.png.png "Epoch = 30")
 
 ## Embeddings in latent space
 Embeddings in latent space for each class (encoder output on an exmaple of every class) :
